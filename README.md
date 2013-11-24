@@ -4,13 +4,13 @@ Fizz-Buzz
 Description
 -----------
 
-\\_Fizzbuzz.rb_\\
+_Fizzbuzz.rb_
 
 Within this repo are two iterations of fizzbuzz for Ruby.
 The first is a simple receive a number, output a **fizz**,
 **buzz**, or both.
 
-\\_Fizzbuzz_extend.rb_\\
+_Fizzbuzz_extend.rb_
 
 The extended version takes additional options from console
 inputs such as **sivv** which ties to the divisor **7**.  These
