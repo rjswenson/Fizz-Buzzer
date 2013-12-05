@@ -18,7 +18,7 @@ def set_options(input_number)
   words = []
   divisors = []
 
-  until true == false
+  loop do
     puts "\nFirst, the word such as 'sivv' (typing 'done' ends options):"
     word = gets.chomp.to_sym
     break if word == :done
